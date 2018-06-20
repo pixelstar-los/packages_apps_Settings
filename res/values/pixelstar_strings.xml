@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
    <!-- Pixelstar version -->
     <string name="pixelstar_version">Pixelstar version</string>
     <string name="pixelstar_version_default">Unknown</string>
@@ -23,6 +23,10 @@
     <!-- Pixelstar maintainer -->
     <string name="maintainer">Maintainer</string>
     <string name="pixelstar_maintainer" translatable="false">Unofficial Maintainer</string>
+
+    <!-- Hardware info -->
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Total RAM</string>
 
     <!-- Wifi/Bluetooth auto timeout -->
     <string name="wifi_timeout">WiFi timeout</string>
