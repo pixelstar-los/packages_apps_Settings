@@ -203,6 +203,7 @@ import com.android.settings.wifi.tether.WifiTetherSettings;
 import com.star.field.StarfieldDashboard;
 import com.star.field.category.Theme;
 import com.star.field.fragments.themes.fonts.FontPickerPreview;
+import com.star.field.fragments.SmartPixels;
 
 public class SettingsGateway {
 
@@ -395,6 +396,7 @@ public class SettingsGateway {
             StarfieldDashboard.class.getName(),
             Theme.class.getName(),
             FontPickerPreview.class.getName(),
+            SmartPixels.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
@@ -444,5 +446,6 @@ public class SettingsGateway {
             Settings.StarfieldSettingsActivity.class.getName(),
             Settings.FontPickerPreviewActivity.class.getName(),
             Settings.ThemeActivity.class.getName(),
+            Settings.SmartPixelsActivity.class.getName(),
     };
 }

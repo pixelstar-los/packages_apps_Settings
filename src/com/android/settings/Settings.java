@@ -496,4 +496,6 @@ public class Settings extends SettingsActivity {
 
     // StarField Additions.
     public static class StarfieldSettingsActivity extends SettingsActivity {}
+
+    public static class SmartPixelsActivity extends SettingsActivity {}
 }
