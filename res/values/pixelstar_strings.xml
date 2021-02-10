@@ -24,6 +24,9 @@
     <string name="maintainer">Maintainer</string>
     <string name="pixelstar_maintainer" translatable="false">Unofficial Maintainer</string>
 
+    <!-- Deep Sleep percentage in device info -->
+    <string name="status_sleep_time">Deep sleep</string>
+    
     <!-- Wifi/Bluetooth auto timeout -->
     <string name="wifi_timeout">WiFi timeout</string>
     <string name="wifi_timeout_summary">Do not automatically turn off WiFi</string>
