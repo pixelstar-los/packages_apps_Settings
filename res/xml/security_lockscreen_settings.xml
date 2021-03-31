@@ -149,6 +149,11 @@
             <intent android:action="org.lineageos.settings.device.DOZE_SETTINGS" />
         </lineageos.preference.RemotePreference>
 
+       <Preference
+          android:key="always_on_display_schedule"
+          android:title="@string/always_on_display_schedule_title"
+          android:fragment="com.android.settings.AODSchedule" />
+
     </PreferenceCategory>
 
     <!-- Work profile settings are at the bottom with high order value to avoid users thinking that
