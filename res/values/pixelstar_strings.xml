@@ -85,6 +85,8 @@
     <string name="custom_timeout_summary_8hours">8 hours</string>
 
     <!-- WiFi Hotspot -->
+    <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
+    <string name="wifi_hotspot_hidden_ssid_summary">Your mobile hotspot\'s name won\'t appear in the list of available WLAN networks.</string>
     <string name="wifi_hotspot_client_manager_title">Connected devices</string>
     <string name="wifi_hotspot_client_manager_summary">List and manage devices connected to the hotspot</string>
     <string name="wifi_hotspot_client_manager_list_only_summary">List devices connected to the hotspot</string>
@@ -100,7 +102,7 @@
         <item quantity="other">Up to <xliff:g id="device_num">%1$d</xliff:g> devices can connect to this hotspot</item>
         <item quantity="one">Up to <xliff:g id="device_num">%1$d</xliff:g> device can connect to this hotspot</item>
     </plurals>
-    
+
     <!-- Per-app volume control -->
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
