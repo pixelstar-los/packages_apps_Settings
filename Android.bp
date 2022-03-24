@@ -135,6 +135,11 @@ android_library {
         "androidx.navigation_navigation-ui-ktx",
         "kotlin-stdlib",
         "colorpickerview",
+        "androidx.fragment_fragment",
+        "androidx.fragment_fragment-ktx",
+        "androidx.preference_preference-ktx",
+        "kotlinx_coroutines_android",
+        "kotlinx_coroutines",
     ],
 
     plugins: ["androidx.room_room-compiler-plugin"],
