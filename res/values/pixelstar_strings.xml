@@ -148,4 +148,8 @@
     <string name="rocker_haptics_title">Volume rocker haptics</string>
     <string name="rocker_haptics_summary">To add haptics when changing volume from buttons. Controlled by Volume Panel Haptics Intensity </string>
     <string name="qs_haptics_intensity_title">Qs fling haptics intensity</string>
+
+    <!-- Game space -->
+    <string name="game_space_title">Game space</string>
+    <string name="game_space_summary">Enhance your gaming experience</string>
 </resources>
