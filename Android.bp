@@ -133,6 +133,7 @@ android_library {
         "androidx.navigation_navigation-runtime-ktx",
         "androidx.navigation_navigation-ui-ktx",
         "kotlin-stdlib",
+        "colorpickerview",
     ],
 
     plugins: ["androidx.room_room-compiler-plugin"],
@@ -194,4 +195,9 @@ android_library_import {
     name: "expandable-bottombar",
     aars: ["libs/lib-expandablebottombar-release.aar"],
     sdk_version: "current",
+}
+
+android_library_import {
+    name: "colorpickerview",
+    aars: ["libs/colorpickerview-release.aar"],
 }
