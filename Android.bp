@@ -69,6 +69,7 @@ android_library {
         "res-export", // for external usage
         "res-product",
     	"StarField/res",
+        "SettingsGoogle/res",
     ],
     
     aaptflags: ["--extra-packages com.star.field",
