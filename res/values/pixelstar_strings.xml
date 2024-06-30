@@ -164,4 +164,8 @@
     <string name="disabled">Disabled</string>
     <string name="always_on_display_schedule_mixed_sunset">Turns on from sunset till a time</string>
     <string name="always_on_display_schedule_mixed_sunrise">Turns on from a time till sunrise</string>
+
+    <!-- face lockout -->
+    <string name="face_lockout_title">Disable face lockout</string>
+    <string name="face_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed face unlock attempts</string>
 </resources>
