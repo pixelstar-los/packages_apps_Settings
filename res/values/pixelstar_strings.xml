@@ -138,4 +138,5 @@
     <string name="volume_slider_haptics_intensity_title">Volume panel haptics intensity</string>    <string name="qs_panel_tile_haptic_intensity_title">QS tile haptics intensity</string>
     <string name="rocker_haptics_title">Volume rocker haptics</string>
     <string name="rocker_haptics_summary">To add haptics when changing volume from buttons. Controlled by Volume Panel Haptics Intensity </string>
+    <string name="qs_haptics_intensity_title">Qs fling haptics intensity</string>
 </resources>
