@@ -70,4 +70,9 @@
         android:defaultValue="1"
         settings:interval="1"/>
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="rocker_haptics"
+        android:title="@string/rocker_haptics_title"
+        android:summary="@string/rocker_haptics_summary"
+        android:defaultValue="true" />
 </PreferenceScreen>

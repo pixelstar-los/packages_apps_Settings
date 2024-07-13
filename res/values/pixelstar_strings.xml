@@ -144,6 +144,7 @@
     <string name="back_gesture_haptic_intensity_title">Back gesture haptics intensity</string>
     <string name="brightness_slider_haptics_intensity_title">Brightness slider haptics intensity</string>
     <string name="edge_scrolling_haptics_intensity_title">Edge scrolling haptics intensity</string>
-    <string name="volume_slider_haptics_intensity_title">Volume slider haptics intensity</string>
-    <string name="qs_panel_tile_haptic_intensity_title">QS tile haptics intensity</string>
+    <string name="volume_slider_haptics_intensity_title">Volume panel haptics intensity</string>    <string name="qs_panel_tile_haptic_intensity_title">QS tile haptics intensity</string>
+    <string name="rocker_haptics_title">Volume rocker haptics</string>
+    <string name="rocker_haptics_summary">To add haptics when changing volume from buttons. Controlled by Volume Panel Haptics Intensity </string>
 </resources>
