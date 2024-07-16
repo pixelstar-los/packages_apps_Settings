@@ -62,7 +62,7 @@ public class Settings extends SettingsActivity {
     }
 
     public static class ThemeActivity extends SettingsActivity { /* empty */ }
-    public static class FontsPickerActivity extends SettingsActivity { /* empty */ }
+    public static class FontPickerPreviewActivity extends SettingsActivity { /* empty */ }
 
     public static class VpnSettingsActivity extends SettingsActivity { /* empty */ }
     /** Activity for Data saver settings. */
