@@ -174,4 +174,8 @@
     <string name="doze_gesture_ambient_summary">Show Ambient Display instead of fully waking the screen up</string>
     <string name="gesture_wake_ambient">Show Ambient</string>
     <string name="gesture_wake">Fully wake</string>
+
+    <!-- Screenshot shutter sound  -->
+    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+    <string name="screenshot_shutter_sound_summary">Play sound when screenshot is taken</string>
 </resources>
