@@ -92,6 +92,8 @@
     <string name="app_volume_title">Per-app volume control</string>
     <string name="app_volume_summary">Allow to set different volume levels for each app</string>
 
+    <string name="about_device_name">Device</string>
+    
     <!-- face lockout -->
     <string name="face_lockout_title">Disable face lockout</string>
     <string name="face_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed face unlock attempts</string>
@@ -107,7 +109,7 @@
 
     <!-- Label for a numbered SIM card.  [CHAR LIMIT=40] -->
     <string name="sim_card_number_title" translatable="false">SIM <xliff:g id="card_number">%1$d</xliff:g></string>
-    
+
     <!-- Notch: Full screen apps -->
     <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
     <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
