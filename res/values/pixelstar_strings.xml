@@ -27,6 +27,10 @@
     <!-- Deep Sleep percentage in device info -->
     <string name="status_sleep_time">Deep sleep</string>
     
+    <!-- Hardware info -->
+    <string name="platform_revision">Platform</string>
+    <string name="total_ram">Total RAM</string>
+    
     <!-- Wifi/Bluetooth auto timeout -->
     <string name="wifi_timeout">WiFi timeout</string>
     <string name="wifi_timeout_summary">Do not automatically turn off WiFi</string>
@@ -93,7 +97,7 @@
     <string name="app_volume_summary">Allow to set different volume levels for each app</string>
 
     <string name="about_device_name">Device</string>
-    
+
     <!-- face lockout -->
     <string name="face_lockout_title">Disable face lockout</string>
     <string name="face_lockout_summary">Deactivates 30 second timeout as well as permanent lockout after multiple failed face unlock attempts</string>
