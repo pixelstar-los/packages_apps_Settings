@@ -31,6 +31,9 @@
     <string name="platform_revision">Platform</string>
     <string name="total_ram">Total RAM</string>
     
+    <!-- Auto pin confirm -->
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
+
     <!-- Wifi/Bluetooth auto timeout -->
     <string name="wifi_timeout">WiFi timeout</string>
     <string name="wifi_timeout_summary">Do not automatically turn off WiFi</string>
